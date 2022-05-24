@@ -131,7 +131,7 @@
     .about_wrapper .about-clinic:nth-child(2),
     .about_wrapper .about-clinic:nth-child(3),
     .about_wrapper .about-clinic:nth-child(4) {
-        width: 52%;
+        width: 49%;
     }
 
     .about_wrapper .card {
